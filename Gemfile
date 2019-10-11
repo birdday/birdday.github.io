@@ -1,4 +1,4 @@
-source "https://rubygems.org"
+source "http://rubygems.org"
 
 # Hello! This is where you manage which Jekyll version is used to run.
 # When you want to use a different version, change it below, save the
@@ -10,8 +10,8 @@ source "https://rubygems.org"
 # Happy Jekylling!
 # To upgrade, run `bundle update`.
 
-# gem "github-pages", group: :jekyll_plugins
-gem "jekyll"
+gem "github-pages", group: :jekyll_plugins
+# gem "jekyll"
 gem "minimal-mistakes-jekyll"
 
 # If you have any other plugins, put them here!
