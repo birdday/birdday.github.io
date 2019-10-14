@@ -35,7 +35,7 @@ experience:
     alt: "Google Scholar"
     title: "Google Scholar"
 ---
-## Research Projects - Wooo2.0
+## Research Projects
 ### N.B. This page is still currently under development!
 {% include feature_row id="projects" caption="Research projects."%}
 
