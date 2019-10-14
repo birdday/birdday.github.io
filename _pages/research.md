@@ -37,7 +37,6 @@ experience:
 ---
 ## Research Projects
 ### N.B. This page is still currently under development!
-### Almost all objects/texts are placeholders for future development.
 {% include feature_row id="projects" caption="Research projects."%}
 
 ## Experience
