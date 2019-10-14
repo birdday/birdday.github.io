@@ -7,14 +7,14 @@ categories: pages
 projects:
   - url: "https://wilmerlab.github.io/research/"
     image_path: /assets/img/research/CharliePic.png
-    title: "Electronic Nose"
-    excerpt: "MOF-based Gas Sensing Array."
+    title: "Electronic Nose<br/>"
+    excerpt: "MOF-based Gas Sensing Array.<br/>"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - url: "https://wilmerlab.github.io/research/"
     image_path: /assets/img/research/CharliePic.png
     title: "Lennard-Jones Parameterization"
-    excerpt: "DFT method of determining LJ parameters."
+    excerpt: "DFT method of determining LJ parameters.<br/>"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - url: "https://wilmerlab.github.io/research/"
