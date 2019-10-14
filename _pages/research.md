@@ -18,7 +18,7 @@ experience:
     title: "Google Scholar"
 ---
 ## Research Projects
-{% include feature_row id="projects" caption="Research projects." type="center" %}
+{% include feature_row id="projects" caption="Research projects."%}
 
 ## Experience
 {% include feature_row id="experience" caption="Research and professional experience." %}
