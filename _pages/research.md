@@ -7,7 +7,6 @@ categories: pages
 projects:
   - url: "https://wilmerlab.github.io/research/"
     image_path: /assets/img/research/CharliePic.png
-    width: 200
     title: "Wilmer Lab Page"
     excerpt: "Computational Materials Lab"
     btn_label: "Read More"
