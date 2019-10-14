@@ -6,7 +6,7 @@ date:   2017-08-04
 categories: pages
 projects:
   - url: "https://wilmerlab.github.io/research/"
-    image_path: /assets/img/research/CharliePic.png
+    image_path: <src="/assets/img/research/CharliePic.png" width="150">
     title: "Wilmer Lab Page"
     excerpt: "Computational Materials Lab"
     btn_label: "Read More"
@@ -17,7 +17,7 @@ experience:
     alt: "Google Scholar"
     title: "Google Scholar"
 ---
-## Projects
+## Research Projects
 {% include feature_row id="projects" caption="Research projects." %}
 
 ## Experience
