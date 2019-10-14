@@ -13,7 +13,7 @@ projects:
     btn_class: "btn--primary"
 experience:
   - url: "https://scholar.google.com/citations?hl=en&user=oKgx3OAAAAAJ"
-    image_path: /assets/img/gscholar_250.png
+    image_path: /assets/img/gscholar_250px.png
     alt: "Google Scholar"
     title: "Google Scholar"
 ---
