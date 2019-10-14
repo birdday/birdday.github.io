@@ -1,6 +1,7 @@
 # main links
 main:
   - title: "Home"
+    url: https://birdday.github.io
   - title: "Research"
     url: /research/
   - title: "Publications"
