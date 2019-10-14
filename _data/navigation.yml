@@ -2,6 +2,7 @@
 main:
   - title: "Home"
   - title: "Research"
+    url: /research/
   - title: "Publications"
   - title: "CV"
   - title: "P3 Art"
