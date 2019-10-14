@@ -7,8 +7,20 @@ categories: pages
 projects:
   - url: "https://wilmerlab.github.io/research/"
     image_path: /assets/img/research/CharliePic.png
-    title: "Wilmer Lab Page"
-    excerpt: "Computational Materials Lab"
+    title: "Electronic Nose"
+    excerpt: "MOF-based Gas Sensing Array."
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+  - url: "https://wilmerlab.github.io/research/"
+    image_path: /assets/img/research/CharliePic.png
+    title: "Lennard-Jones Parameterization"
+    excerpt: "DFT method of determining LJ parameters."
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+  - url: "https://wilmerlab.github.io/research/"
+    image_path: /assets/img/research/CharliePic.png
+    title: "Electrical Conductivity of MOFs"
+    excerpt: "DFT screening and ranking of MOFs for electrical conductivity."
     btn_label: "Read More"
     btn_class: "btn--primary"
 experience:
