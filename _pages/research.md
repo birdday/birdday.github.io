@@ -6,7 +6,8 @@ date:   2017-08-04
 categories: pages
 projects:
   - url: "https://wilmerlab.github.io/research/"
-    image_path: <src="/assets/img/research/CharliePic.png" width="150">
+    image_path: src=/assets/img/research/CharliePic.png
+    width: 200px
     title: "Wilmer Lab Page"
     excerpt: "Computational Materials Lab"
     btn_label: "Read More"
