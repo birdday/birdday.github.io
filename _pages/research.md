@@ -13,12 +13,12 @@ projects:
     btn_class: "btn--primary"
 experience:
   - url: "https://scholar.google.com/citations?hl=en&user=oKgx3OAAAAAJ"
-    image_path: /assets/img/gscholar.png
+    image_path: /assets/img/gscholar_250.png
     alt: "Google Scholar"
     title: "Google Scholar"
 ---
 ## Research Projects
-{% include feature_row id="projects" caption="Research projects." %}
+{% include feature_row id="projects" caption="Research projects." type="center" %}
 
 ## Experience
 {% include feature_row id="experience" caption="Research and professional experience." %}
