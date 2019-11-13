@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Brian A. Day"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "assets/img/profile_pic.jpg"
   bio              : "Graduate Student Researcher, Chemical Engineering, Wilmer Lab, University of Pittsburgh"
   location         : "Pittsburgh, PA"
   email            :
