@@ -12,6 +12,7 @@ source "http://rubygems.org"
 
 gem "github-pages", group: :jekyll_plugins
 # gem "jekyll"
+gem "jekyll", github: "jekyll/jekyll", ref: "refs/pull/7948/head"
 gem "minimal-mistakes-jekyll"
 
 # If you have any other plugins, put them here!
