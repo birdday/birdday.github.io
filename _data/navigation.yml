@@ -5,9 +5,10 @@ main:
   - title: "Research"
     url: /research/
   - title: "Publications"
+    url: /publications/
   - title: "CV"
   - title: "P3 Art"
-    url: /p3art/
+    # url: /p3art/
   - title: "."
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
