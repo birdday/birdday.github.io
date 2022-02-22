@@ -6,4 +6,4 @@ date:   2022-02-22
 categories: pages
 ---
 
-<iframe width="350" height="200" src="https://www.youtube.com/watch?v=qft5x5mhd0w&ab_channel=BrianDay" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qft5x5mhd0w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
