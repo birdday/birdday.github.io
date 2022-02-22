@@ -7,8 +7,7 @@ main:
   - title: "Publications"
     url: /publications/
   - title: "CV"
-  - title: "P3 Art"
-    # url: /p3art/
+    url: /assets/cv.pdf
   - title: "."
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
