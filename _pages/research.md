@@ -1,25 +1,38 @@
 ---
 layout: splash
-title:  "Research"
+title:  "Research Projects"
 permalink: /research/
 date:   2020-06-20
 categories: pages
 projects:
-  - url: "https://wilmerlab.github.io/research/"
-    image_path: /assets/img/research/eNose.png
+  - image_path: /assets/img/research/eNose.png
     title: "Electronic Nose"
-    excerpt: "MOF-based Gas Sensing Array."
+    excerpt: "Design of a MOF-based gas sensing array."
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - url: "https://wilmerlab.github.io/research/"
-    image_path: /assets/img/research/eMOF.png
-    title: "Electrical Conductivity of MOFs"
-    excerpt: "DFT screening and ranking of MOFs for electrical conductivity."
+  - image_path: /assets/img/research/eMOF.png
+    title: "Conductivity in MOFs"
+    excerpt: "DFT screening of MOFs for electrical conductivity."
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+  - image_path: /assets/img/research/eMOF.png
+    title: "Diffusion in MOFs"
+    excerpt: "MD simulations of diffusion for sensing applications."
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+  - image_path: /assets/img/research/eMOF.png
+    title: "Ligand Exchange in MOFs"
+    excerpt: "Predicting ligand exchange and topology conversion in MOFs."
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+  - image_path: /assets/img/research/eMOF.png
+    title: "Finite Volume GCMC"
+    excerpt: "Numerical Approximation of the Gibbs-NPT Ensemble"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - url: "https://www.instagram.com/charlesceserebenedicioxii/"
     image_path: /assets/img/research/CharliePic.png
-    title: "Not Research, Just my dog."
+    title: "Just my dog."
     excerpt: "Isn't he awesome?!"
     btn_label: "Read More"
     btn_class: "btn--primary"
