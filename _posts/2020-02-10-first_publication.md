@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Publication of my 1st Paper!"
+title:  "First Publication!"
 date:   2020-02-10
 categories: posts
 header:
