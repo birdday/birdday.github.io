@@ -3,7 +3,7 @@ layout: archive
 title:  "News"
 permalink: /news/
 author_profile: true
-date:   2018-09-05
+date:   2022-02-24
 categories: pages
 read_time: false
 ---
