@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Announcing the STEM & Society Lecture Series"
+title:  "STEM & Society Lecture Series"
 date:   2020-09-09
 categories: posts
 header:

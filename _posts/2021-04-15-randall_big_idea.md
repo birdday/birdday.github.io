@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Health-E-Nose wins 2nd at the Randall Family Big Idea Competition!"
+title:  "Health-E-Nose Wins 2nd at the Randall Family Big Idea Competition"
 date:   2021-04-15
 categories: posts
 header:

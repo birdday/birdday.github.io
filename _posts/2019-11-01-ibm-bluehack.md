@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "WeHaul Healthcare wins 2nd place at IBM BlueHack!"
+title:  "WeHaul Healthcare Wins 2nd Place at IBM BlueHack"
 date:   2019-11-01
 categories: posts
 header:

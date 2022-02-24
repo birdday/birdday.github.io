@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Health-E-Nose wins first at the Big Idea Blast!"
+title:  "Health-E-Nose wins 1st at the Big Idea Blast"
 date:   2020-11-03
 categories: posts
 header:
@@ -8,7 +8,7 @@ header:
 excerpt: "Wilmer Lab members Brian Day and Becca Segel pitched Health-E-Nose to improve screening and diagnostics in the medical industry, and won first place at the Big Idea Blast competition!"
 
 ---
-November 3rd, 2020
+*November 3rd, 2020*
 
 This past weekend, Wilmer Lab members Brian Day and Becca Segel pitched Health-E-Nose, an electronic nose technology designed to improve screening and diagnostics in the medical industry. Their pitch won first place at the Big Idea Blast competition, fast tracking them into the final round of the Randall Big Idea competition. Please join us in congratulating Brian and Becca!".
 
