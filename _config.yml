@@ -119,8 +119,11 @@ author:
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=oKgx3OAAAAAJ&hl=en"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/brian-a-day/"
     - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
+      icon: "fas fa-fw fa-envelope"
       url: mailto:22bday@gmail.com
     # - label: "Twitter"
     #   icon: "fab fa-fw fa-twitter-square"
@@ -143,7 +146,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      # url: "https://github.com/birdday"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
