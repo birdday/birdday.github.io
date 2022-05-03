@@ -53,4 +53,4 @@ Check out our introductory video below!
 <br>&emsp;&emsp;We have won numerous business plan competitions in the past, including the Pitt Innovation Challenge (PInCh), the Big Idea Blitz, the Big Idea Blast, the Randall Family Big Idea Competition, the Pittsburgh Data and Management Alliance Competition, and TiE Pittsburgh. We recently finished participating in the University of Pittsburgh’s Innovation Institute’s Forge Program, an accelerator for student entrepreneurship, and will be joining Pitt Venture First Gear program this Summer.
 </p>
 
-Last Updated: 29 April 2022
+### Last Updated: 29 April 2022
