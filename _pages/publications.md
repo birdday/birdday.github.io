@@ -6,10 +6,10 @@ date:   2024-01-19
 categories: pages
 
 2023_ACS:
-- image_path: /assets/img/publications/2023_ACS.png
-  alt: "2023_ACS"
-  title: "Size-Based Norfentanyl Detection with SWCNT@UiO-MOF Composites"
-  excerpt: "**5.** [Z. Zeng, M. Islamov, Y. He, B. A. Day, N. L. Rosi, C. E. Wilmer, and A. Star, Size-Based Norfentanyl Detection with SWCNT@UiO-MOF Composites, *ACS Appl. Mater. Interfaces*, 16, 1361-1369 **(2023)**.](https://doi.org/10.1021/acsami.3c17503)"
+  - image_path: /assets/img/publications/2023_ACS.png
+    alt: "2023_ACS"
+    title: "Size-based norfentanyl detection with SWCNT@UiO-MOF composites"
+    excerpt: "**5.** [Z. Zeng, M. Islamov, Y. He, B. A. Day, N. L. Rosi, C. E. Wilmer, and A. Star, Size-Based Norfentanyl Detection with SWCNT@UiO-MOF Composites, *ACS Appl. Mater. Interfaces*, 16, 1361-1369 **(2023)**.](https://doi.org/10.1021/acsami.3c17503)"
 2022_ACS:
   - image_path: /assets/img/publications/2022_ACS.png
     alt: "2022_ACS"
@@ -39,7 +39,7 @@ Publications
 
 <table style="width:100%">
   <tr>
-    <th><a href="#2023" class="btn btn--primary">2022</a></th>
+    <th><a href="#2023" class="btn btn--primary">2023</a></th>
     <th><a href="#2022" class="btn btn--primary">2022</a></th>
     <th><a href="#2021" class="btn btn--primary">2021</a></th>
     <th><a href="#2020" class="btn btn--primary">2020</a></th>
