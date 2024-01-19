@@ -2,14 +2,19 @@
 layout: splash
 title:  "Publications"
 permalink: /publications/
-date:   2022-05-15
+date:   2024-01-19
 categories: pages
 
+2023_ACS:
+- image_path: /assets/img/publications/2023_ACS.png
+  alt: "2023_ACS"
+  title: "Size-Based Norfentanyl Detection with SWCNT@UiO-MOF Composites"
+  excerpt: "**5.** [Z. Zeng, M. Islamov, Y. He, B. A. Day, N. L. Rosi, C. E. Wilmer, and A. Star, Size-Based Norfentanyl Detection with SWCNT@UiO-MOF Composites, *ACS Appl. Mater. Interfaces*, 16, 1361-1369 **(2023)**.](https://doi.org/10.1021/acsami.3c17503)"
 2022_ACS:
   - image_path: /assets/img/publications/2022_ACS.png
     alt: "2022_ACS"
     title: "VOC-mixture sensing with a MOF-film sensor array: Detection and discrimination of xylene isomers and its ternary blends"
-    excerpt: "**4.** [P. Qin, B. A. Day, S. Okur, C. Li, A. Chandresh, C. E. Wilmer, and L. Heinke, VOC-mixture sensing with a MOF-film sensor array: Detection and discrimination of xylene isomers and its ternary blends, *ACS Sens.*, 7, 1666-1675 **(2022)**.](https://pubs.acs.org/doi/10.1021/acssensors.2c00301)"
+    excerpt: "**4.** [P. Qin, B. A. Day, S. Okur, C. Li, A. Chandresh, C. E. Wilmer, and L. Heinke, VOC-mixture sensing with a MOF-film sensor array: Detection and discrimination of xylene isomers and its ternary blends, *ACS Sens.*, 7, 1666-1675 **(2022)**.](https://doi.org/10.1021/acssensors.2c00301)"
 2021_ACS:
   - image_path: /assets/img/publications/2021_ACS.gif
     alt: "2021_ACS"
@@ -19,12 +24,12 @@ categories: pages
   - image_path: /assets/img/publications/2021_JACS.png
     alt: "2021_JACS"
     title: "Size discrimination of carbohydrates via conductive carbon nanotube@metal organic framework composites"
-    excerpt: "**2.** [D. L. White, B. A. Day, Z. Zheng, Z. M. Schulte, N. R. Borland, N. L. Rosi, C. E. Wilmer, and A. Star., Size discrimination of carbohydrates via conductive carbon nanotube@metal organic framework composites, *J. Am. Chem. Soc.*, 143, 8022–8033 **(2021)**.](https://doi-org.pitt.idm.oclc.org/10.1021/jacs.1c01673)"
+    excerpt: "**2.** [D. L. White, B. A. Day, Z. Zheng, Z. M. Schulte, N. R. Borland, N. L. Rosi, C. E. Wilmer, and A. Star., Size discrimination of carbohydrates via conductive carbon nanotube@metal organic framework composites, *J. Am. Chem. Soc.*, 143, 8022–8033 **(2021)**.](https://doi.org/10.1021/jacs.1c01673)"
 2020_Sensors:
   - image_path: /assets/img/publications/2020_Sensors.png
     alt: "2020_Sensors"
     title: "Genetic algorithm design of MOF-based gas sensor array for CO<sub>2</sub>-in-air sensing"
-    excerpt: "**1.** [B. A. Day and C. E. Wilmer, Genetic algorithm design of MOF-based gas sensor array for CO<sub>2</sub>-in-air sensing. *Sensors*, 20, 924, **(2020)**.](https://www.mdpi.com/1424-8220/20/3/924)"
+    excerpt: "**1.** [B. A. Day and C. E. Wilmer, Genetic algorithm design of MOF-based gas sensor array for CO<sub>2</sub>-in-air sensing. *Sensors*, 20, 924, **(2020)**.](https://doi.org/10.3390/s20030924)"
 
 ---
 <p> </p>
@@ -34,12 +39,18 @@ Publications
 
 <table style="width:100%">
   <tr>
+    <th><a href="#2023" class="btn btn--primary">2022</a></th>
     <th><a href="#2022" class="btn btn--primary">2022</a></th>
     <th><a href="#2021" class="btn btn--primary">2021</a></th>
     <th><a href="#2020" class="btn btn--primary">2020</a></th>
   </tr>
 </table>
 --------------------------------------------------------------
+
+2023
+----
+
+{% include feature_row id="2023_ACS" type="left" %}
 
 2022
 ----

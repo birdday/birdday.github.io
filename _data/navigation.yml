@@ -11,7 +11,7 @@ main:
   - title: "Health-E-Nose"
     url: /health-e-nose/
   - title: "CV"
-    url: /assets/cv.pdf
+    url: /assets/cv/cv.pdf
   - title: "."
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
