@@ -10,7 +10,7 @@ main:
     url: /publications/
   - title: "Health-E-Nose"
     url: /health-e-nose/
-  - title: "CV"
+  - title: "Resumé"
     url: /assets/cv/cv.pdf
   - title: "."
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
