@@ -43,7 +43,7 @@ categories: pages
 
 <table style="width:100%">
   <tr>
-    <th><a href="#2024" class="btn btn--primary">2023</a></th>
+    <th><a href="#2024" class="btn btn--primary">2024</a></th>
     <th><a href="#2023" class="btn btn--primary">2023</a></th>
     <th><a href="#2022" class="btn btn--primary">2022</a></th>
     <th><a href="#2021" class="btn btn--primary">2021</a></th>
